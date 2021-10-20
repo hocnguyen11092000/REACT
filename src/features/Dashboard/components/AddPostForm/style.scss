@@ -1,0 +1,14 @@
+.add-form {
+  display: flex;
+  flex-wrap: wrap;
+  .add-input {
+    width: 45% !important;
+    margin-right: 10px;
+  }
+  .ck-editer {
+    width: 40%;
+  }
+}
+.ck.ck-reset.ck-editor.ck-rounded-corners {
+  width: 100%;
+}

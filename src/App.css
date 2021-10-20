@@ -1,7 +1,19 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
-
+.container {
+  padding: 20px 50px;
+}
+.link {
+  color: #fff;
+  margin-right: 20px;
+  text-decoration: none;
+} 
+.link a{
+  color: #fff;
+  text-decoration: none;
+  border: none;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,3 +48,10 @@
     transform: rotate(360deg);
   }
 }
+/* .active{
+  text-decoration: none;
+  color: deeppink;
+  padding: 10px;
+  border: 1px solid deeppink;
+  border-radius: 5px;
+} */
